@@ -55,9 +55,9 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantchauhan-12&theme=tokyonight" alt="Prashant's Contribution Graph" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prashantchauhan_12&theme=tokyonight&layout=compact" alt="Weekly Coding Stats" />
-</div>
+</div> -->
 
 ---
 
