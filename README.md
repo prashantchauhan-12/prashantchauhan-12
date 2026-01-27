@@ -79,9 +79,12 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantchauhan-12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+</div> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Prashant's GitHub Streak" />
+</p>
 
 
 <!-- <div align="center">
