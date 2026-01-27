@@ -2,25 +2,27 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="30" />
   <h1>Hi, I'm Prashant Chauhan!</h1>
 
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=prashantchauhan-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://github.com/prashantchauhan-12?tab=followers">
-      <img src="https://img.shields.io/github/followers/prashantchauhan-12?label=Followers&style=social" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/prashantchauhan-12?style=for-the-badge&logo=github&color=8A2BE2" alt="GitHub Followers" />
     </a>
+    <a href="https://www.linkedin.com/in/prashant-chauhan-5a7348285/">
+      <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+    </a>
+    <a href="mailto:pr.im12me@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    </a>
+    <a href="https://prashantchauhan-12.github.io/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=prashantchauhan-12&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2" alt="Profile Views" />
   </p>
-  
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 
-  <p>
-    <a href="https://www.linkedin.com/in/prashant-chauhan-5a7348285/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:pr.im12me@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 </div>
 
 <hr />
