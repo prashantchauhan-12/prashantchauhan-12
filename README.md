@@ -45,17 +45,32 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css" alt="Languages" />
   <br />
-  <code>C++</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>C</code> <code>HTML</code> <code>CSS</code>
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C-333333?style=flat&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logoColor=white" alt="CSS" />
 
   <h3>Web Development</h3>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres" alt="Web Dev" />
   <br />
-  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code>
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-333333?style=flat&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logoColor=white" alt="PostgreSQL" />
 
   <h3>Tools & ML</h3>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,git,postman" alt="Tools and ML" />
   <br />
-  <code>TensorFlow</code> <code>PyTorch</code> <code>Pandas</code> <code>Git</code> <code>Postman</code>
+  <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logoColor=white" alt="Postman" />
 
 </div>
 
