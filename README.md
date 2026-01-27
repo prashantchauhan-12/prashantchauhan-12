@@ -51,9 +51,9 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantchauhan-12&theme=tokyonight" alt="Prashant's Contribution Graph" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prashantchauhan-12&theme=tokyonight&layout=compact" alt="Weekly Coding Stats" />
@@ -64,9 +64,9 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
 ### 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/im_pr12/">
+  <!-- <a href="https://leetcode.com/u/im_pr12/">
     <img src="https://img.shields.io/badge/LeetCode-1677-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  </a> -->
   <a href="https://codeforces.com/profile/pr3631">
     <img src="https://img.shields.io/badge/Codeforces-Pupil-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
