@@ -56,18 +56,24 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
 </div>
 
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prashantchauhan_12&theme=tokyonight&layout=compact" alt="Weekly Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prashantchauhan-12&theme=tokyonight&layout=compact" alt="Weekly Coding Stats" />
 </div> -->
 
 ---
 
 ### 🏆 Coding Profiles
 
-| Platform | Rating / Score |
-| :--- | :--- |
-| [**LeetCode**](https://leetcode.com/u/im_pr12/) | 1677 Rating |
-| [**Codeforces**](https://codeforces.com/profile/pr3631) | Pupil (Max 1213) |
-| [**CodeChef**](https://www.codechef.com/users/pr12_prashant) | 3 Star |
+<div align="center">
+  <a href="https://leetcode.com/u/im_pr12/">
+    <img src="https://img.shields.io/badge/LeetCode-1677-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/pr3631">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/pr12_prashant">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
 
 ---
 
