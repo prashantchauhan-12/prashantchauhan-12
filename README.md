@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="30" />
   <h1>Hi, I'm Prashant Chauhan!</h1>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=prashantchauhan-12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/prashantchauhan-12?tab=followers">
+      <img src="https://img.shields.io/github/followers/prashantchauhan-12?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+  </p>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
@@ -32,9 +39,22 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
 ### 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres" alt="Web Dev" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,git,postman" alt="Tools & ML" />
+
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css" alt="Languages" />
+  <br />
+  <code>C++</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>C</code> <code>HTML</code> <code>CSS</code>
+
+  <h3>Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres" alt="Web Dev" />
+  <br />
+  <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code>
+
+  <h3>Tools & ML</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,git,postman" alt="Tools and ML" />
+  <br />
+  <code>TensorFlow</code> <code>PyTorch</code> <code>Pandas</code> <code>Git</code> <code>Postman</code>
+
 </div>
 
 ---
