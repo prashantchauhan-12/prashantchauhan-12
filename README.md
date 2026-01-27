@@ -83,7 +83,7 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Prashant's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 
