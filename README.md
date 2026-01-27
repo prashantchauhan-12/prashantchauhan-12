@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="30" />
   <h1>Hi, I'm Prashant Chauhan!</h1>
   
   <a href="https://git.io/typing-svg">
@@ -50,6 +50,15 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchauhan-12&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantchauhan-12&theme=tokyonight" alt="Prashant's Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prashantchauhan-12&theme=tokyonight&layout=compact" alt="Weekly Coding Stats" />
+</div>
+
 ---
 
 ### 🏆 Coding Profiles
@@ -59,25 +68,6 @@ I am an **analytical and impact-driven Computer Science undergraduate** at **III
 | [**LeetCode**](https://leetcode.com/u/im_pr12/) | 1677 Rating |
 | [**Codeforces**](https://codeforces.com/profile/pr3631) | Pupil (Max 1213) |
 | [**CodeChef**](https://www.codechef.com/users/pr12_prashant) | 3 Star |
-
----
-
-### 🚀 Featured Projects
-
-#### 🛍️ [Amazon ML Challenge 2025 – Price Prediction](https://github.com/prashantchauhan-12)
-*Price prediction system for e-commerce catalog data.*
-- **Tech**: Python, OCR, BERT, Deep Learning
-- **Impact**: Achieved SMAPE score of 55. Used OCR for text extraction and BERT embeddings for feature richness.
-
-#### 📹 [YouTube Comment Analyser](https://github.com/prashantchauhan-12)
-*Data analytics web app for sentiment analysis.*
-- **Tech**: Python, NLP, Seaborn, TextBlob
-- **Features**: Preprocessing, polarity scoring, and visualization of audience engagement.
-
-#### 📄 [IntelliDocs – AI-Powered Summarizer](https://github.com/prashantchauhan-12)
-*Document processing system with semantic search.*
-- **Tech**: React, Python, MongoDB, OCR
-- **Features**: Embedding-based semantic search and real-time analytics dashboard.
 
 ---
 
