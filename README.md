@@ -32,8 +32,7 @@
 I am an **analytical and impact-driven Computer Science undergraduate** at **IIIT Pune** with a strong passion for data analytics, software development, and machine learning. I enjoy translating coffee ☕ into code 💻, solving real-world problems, and building impactful products.
 
 - 🎓 **Education**: B.Tech in CSE at IIIT Pune (CGPA: 9.06)
-- 🔭 **I’m currently working on**: MLOps & Advanced Data Analytics
-- 🌱 **I’m currently learning**: Model Explainability & System Design
+- 🌱 **I’m currently learning**: Model Explainability & Data Analytics
 - 💡 **Interests**: Machine Learning, Data Science, Web Development
 
 ---
